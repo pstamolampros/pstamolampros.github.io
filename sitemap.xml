@@ -107,4 +107,8 @@
     <loc>/post/</loc>
   </url>
   
+  <url>
+    <loc>/test/</loc>
+  </url>
+  
 </urlset>
