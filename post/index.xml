@@ -5,12 +5,23 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Call for papers: Special Issue on &#34;The Cultural Impact in Platform Competition&#34;</title>
+      <link>/post/call-for-papers-special-issue-on-the-cultural-impact-in-platform-competition/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/call-for-papers-special-issue-on-the-cultural-impact-in-platform-competition/</guid>
+      <description>&lt;p&gt;I am acting as a Guest editor in a special issue at the 
+&lt;a href=&#34;http://www.electronicmarkets.org/about-em/ranking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Electronic Markets&lt;/em&gt;&lt;/a&gt; for the impact of national culture in platform competitions. For those interested in the topic the submision deadline is in 31st of October. You can find more details  
+&lt;a href=&#34;http://www.electronicmarkets.org/call-for-papers/single-view-for-cfp/datum/2020/02/13/cfp-special-issue-on-the-cultural-impact-in-platform-competition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
