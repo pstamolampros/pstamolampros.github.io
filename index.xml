@@ -5,12 +5,72 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Evaluating domestic bias on airline passengers’ ratings: The moderating effect of cultural value orientation</title>
+      <link>/publication/international-journal-of-hospitality/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/international-journal-of-hospitality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The joint effect of consumer and service providers’ culture on online service evaluations: A response surface analysis</title>
+      <link>/publication/tourism-management-2/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/tourism-management-2/</guid>
+      <description>&lt;p&gt;test test test&lt;/p&gt;
+&lt;p&gt;Finding:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harnessing the wisdom of employees from online reviews</title>
+      <link>/publication/annal-of-tourism/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/annal-of-tourism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job satisfaction and employee turnover determinants in high contact services: Insights from Employees’Online reviews</title>
+      <link>/publication/tourism-management-1/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tourism-management-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airline service quality and economic factors: An ARDL approach on US airlines</title>
+      <link>/publication/air-transport/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/air-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring service quality from unstructured data: A topic modeling application on airline passengers’ online reviews</title>
+      <link>/publication/expert-systems/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/expert-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the behavioral drivers of review valence: The direct and indirect effects of multiple psychological distances</title>
+      <link>/publication/contemporary-hospitality/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/contemporary-hospitality/</guid>
+      <description>&lt;p&gt;test test test&lt;/p&gt;
+&lt;p&gt;Finding:&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
@@ -28,6 +88,24 @@
       <guid>/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Employees’ online reviews and equity prices</title>
+      <link>/publication/economic-letters/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/economic-letters/</guid>
+      <description>&lt;p&gt;test test test&lt;/p&gt;
+&lt;p&gt;Finding:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flying to Quality: Cultural Influences on Online Reviews</title>
+      <link>/publication/journal-of-travel-research/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-of-travel-research/</guid>
+      <description></description>
     </item>
     
   </channel>
